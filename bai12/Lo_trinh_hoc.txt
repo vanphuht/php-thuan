@@ -1,0 +1,85 @@
+﻿1.	HTML5
+2.	CSS2
+•	Lý thuyết CSS2
+•	Cài đặt Bootstrap
+3.	Dự án Bootstrap 4 FREE (buổi 1)
+4.	Dự án Bootstrap 4 FREE (buổi 2)
+•	Hoàn thành Dự án
+•	Chốt sale
+5.	CSS2 nâng cao
+•	Hover
+•	Border
+•	Float-Clear
+•	CSS3 Media
+•	Cắt Photoshop
+6.	Dự án Bootstrap 4 nâng cao (buổi 1)
+7.	Dự án Bootstrap 4 nâng cao (buổi 2)
+8.	Dự án Bootstrap 4 nâng cao (buổi 3)
+9.	PHP buổi 1
+•	Cài đặt 
+•	Biến, Hằng, Kiểu dữ liệu, Toán tử
+10.	PHP buổi 2
+•	Biểu thức điều kiện
+•	Vòng lặp
+11.	PHP buổi 3
+•	Phương thức truyền dữ liệu GET
+•	JSON
+•	Dự án website đa giao diện – đa ngôn ngữ (Việt-Anh)
+12.	PHP buổi 4
+•	Phương thức truyền dữ liệu POST
+•	Upload file
+•	Dự án website quản lý ebook trực tuyến (buổi 1)
+13.	PHP buổi 5
+•	Download file
+•	Dự án website quản lý ebook trực tuyến (buổi 2)
+•	Chốt sale
+14.	PHP buổi 6
+•	Session
+•	Master Page Layout cho Backend
+•	Login-Logout với TK cố định
+15.	PHP buổi 7
+•	MySQL (buổi 1)
+•	Kết nối PHP với MySQL
+•	Xây dựng CSDL và import dữ liệu mẫu cho dự án
+16.	PHP buổi 8
+•	MySQL (buổi 2)
+•	Hoàn thiện chức năng Login-Logout với TK trong CSDL
+•	Xây dựng chức năng hiển thị danh sách sản phẩm
+17.	PHP buổi 9
+•	Phân trang sản phẩm
+18.	PHP buổi 10
+•	Thêm mới sản phẩm
+•	Tích hợp CKEditor
+19.	PHP buổi 11
+•	Sửa thông tin sản phẩm
+•	Xóa sản phẩm
+20.	PHP buổi 12
+bv 
+21.	PHP buổi 13
+•	Xây dựng chức năng hiển thị sản phẩm theo danh mục
+•	Xây dựng chức năng chi tiết sản phẩm
+22.	PHP buổi 14
+•	Thời gian trong PHP
+•	Thuật toán tìm kiếm
+•	Xây dựng chức năng tìm kiếm sản phẩm
+•	Xây dựng chức năng bình luận sản phẩm
+23.	PHP buổi 15
+•	Mảng đa chiều 
+•	Mảng đa chiều Session & thuật toán lưu thông tin trong giỏ hàng
+•	Xây dựng module giỏ hàng với các tính năng (thêm hàng & hiển thị thông tin số lượng
+ hàng ở trang chủ)
+
+24.	PHP buổi 16
+•	Xây dựng tính năng hiển thị thông tin chi tiết giỏ hàng
+•	Xây dựng tính năng cập nhật giỏ hàng
+o	Mảng đa chiều POST và ví dụ Xuân, Hạ, Thu, Đông
+•	Xây dựng tính năng xóa hàng
+
+25.	PHP buổi 17
+•	Hoàn thiện module giỏ hàng với tính năng xác nhận mua hàng và gửi mail thanh toán
+•	Chia nhóm và nhận đề tài ngoài để bảo vệ (nghỉ 01 tuần để tự làm)
+26.	Bế giảng
+•	Bảo vệ
+•	Đưa website lên môi trường Internet
+•	Trao chứng nhận và chụp hình lưu niệm
+•	Chốt sale
